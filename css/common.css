@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins";
+}
+.section_1{
+    background: #F3F3F3;
+}
+.section_2{
+    background:#F7EEFF;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+img{
+    vertical-align: bottom;
+    max-width: 100%;
+}
+.container{
+    max-width: 960px;
+    width: 100%;  
+    margin: 0 auto;
+    padding: 0 15px;
+}
